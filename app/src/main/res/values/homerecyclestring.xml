@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cardtitle1">Android Study Jam</string>
+    <string name="cardtitle2">Cloud Study Jam</string>
+    <string name="cardtitle3">Web Development Bootcamp</string>
+    <string name="cardpart1">+48</string>
+    <string name="cardpart2">+68</string>
+    <string name="cardpart3">+88</string>
+    <string name="carddate1">14th\nFeb</string>
+    <string name="carddate2">1st\nNov</string>
+    <string name="carddate3">21st\nJun</string>
+
+</resources>

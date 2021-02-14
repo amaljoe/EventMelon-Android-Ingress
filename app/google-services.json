@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122827098139",
+    "project_id": "event-melon",
+    "storage_bucket": "event-melon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122827098139:android:d7012644fce1170fa610be",
+        "android_client_info": {
+          "package_name": "com.devex.eventmelon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122827098139-odv678iqqb70b18jjrdanegr1nu3bqlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi2-GTrxLO8J28wUycb1OV0UshMRwW2LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122827098139-odv678iqqb70b18jjrdanegr1nu3bqlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
